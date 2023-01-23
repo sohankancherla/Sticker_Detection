@@ -19,4 +19,8 @@ python edge_detect.py
 
 # Results
 <img width="1357" alt="image" src="https://user-images.githubusercontent.com/30853467/214158965-025f8a1d-6d8f-450b-8c41-5e54ff3bbdcd.png">
+![image](https://user-images.githubusercontent.com/30853467/214161692-70155d24-fd34-4266-b087-69ca8acbcba3.png)
+![image](https://user-images.githubusercontent.com/30853467/214161999-d0c7e585-b8dd-4658-93f4-32c7232cef4e.png)
+
+
 
