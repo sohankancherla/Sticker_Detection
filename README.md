@@ -8,6 +8,10 @@ python edge_detect.py
 # How it Works
 1) Start with a test image
 <img width="196" alt="image" src="https://user-images.githubusercontent.com/30853467/214160013-18b1e848-e37b-478d-88ed-c6f73723f822.png">
+2)Perform morphological transformation through dilation
+<img width="193" alt="image" src="https://user-images.githubusercontent.com/30853467/214160236-35282394-d7ac-4b4b-b549-064fb10b0d67.png">
+3)Store all contours present in the image
+
 
 
 # Results
