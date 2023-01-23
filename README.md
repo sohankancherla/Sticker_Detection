@@ -18,8 +18,11 @@ python edge_detect.py
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/30853467/214160760-e31ce7eb-dbd9-4e54-b054-96b48451cf9e.png">
 
 # Results
+1) The sticker is detected properly
 <img width="1357" alt="image" src="https://user-images.githubusercontent.com/30853467/214158965-025f8a1d-6d8f-450b-8c41-5e54ff3bbdcd.png">
+2) The first sticker is detected but the second sticker was not able to be detected
 <img width="1357" alt="image" src="https://user-images.githubusercontent.com/30853467/214161692-70155d24-fd34-4266-b087-69ca8acbcba3.png">
+3) The sticker is detected properly
 <img width="1357" alt="image" src="https://user-images.githubusercontent.com/30853467/214161999-d0c7e585-b8dd-4658-93f4-32c7232cef4e.png">
 
 
